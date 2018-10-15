@@ -306,10 +306,8 @@ section .columnass2 {
   height: 60px;
   left: 25px;
   margin-top: 30px;
-  margin: 0;
   overflow: hidden;
-  padding-bottom: 5px;
-  padding: 0;
+  padding-bottom: 5Spx;
   position: absolute;
   text-align: center;
   top: 3px;
@@ -323,14 +321,10 @@ section .columnass2 {
   font-size: 60px;
   height: 60px;
   left: 25px;
-  margin-top: 315px;
-  margin: 0;
   overflow: hidden;
-  padding-bottom: 5px;
-  padding: 0;
+  padding-bottom: 10px;
   position: absolute;
   text-align: center;
-  top: 3px;
   width: 60px;
 }
 
@@ -339,6 +333,7 @@ section .columnass2 {
   margin-bottom: 30px;
   position: relative;
   width: 525px;
+  margin-top: 30px;
 }
 
 #foto3 {
