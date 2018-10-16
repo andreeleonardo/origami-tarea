@@ -336,6 +336,22 @@ section .columnass2 {
   margin-top: 30px;
 }
 
+#section {
+  left:0;
+  text-align: right;
+ font-size: 18px;
+  color: #fff;
+  background-color: #00adee;
+  padding:10px 20px;
+  display: inline;
+  margin-left: 370px;
+  top: 30px;
+}
+
+#section:hover {
+  background-color: #404041;
+}
+
 #foto3 {
   background-image: url(../imagenes/mosaico-fases.jpg);
   background-repeat: no-repeat;
@@ -343,6 +359,7 @@ section .columnass2 {
 }
 .columnass2 div p {
   font-size: 14px;
+  color: #404041;
 }
 
 footer h4 {
